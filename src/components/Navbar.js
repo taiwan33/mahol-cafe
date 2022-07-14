@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="flex shadow-lg justify-around py-3 font-extrabold font-monst opacity-95 tracking-wider items-center sticky top-0 bg-white z-30">
       <a href="#home" className="cursor-pointer">
         <img
-          className="h-16 w-full object-cover"
+          className="h-20 w-full object-cover"
           src={Images.maholcafe}
           alt="sdf"
         />
