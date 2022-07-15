@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isActive, setIsActive] = useState("");
 
   return (
-    <div className="flex shadow-lg justify-around py-3 font-extrabold font-monst opacity-95 tracking-wider items-center sticky top-0 bg-white z-30">
+    <div className="flex shadow-lg justify-around py-1 font-extrabold font-monst opacity-95 tracking-wider items-center sticky top-0 bg-white z-30">
       <a href="#home" className="cursor-pointer">
         <img
           className="h-20 w-full object-cover"
