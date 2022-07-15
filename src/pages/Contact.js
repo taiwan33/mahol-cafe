@@ -10,7 +10,7 @@ const Contact = () => {
       </div>
 
       <div className="block md:flex justify-around px-6 pb-8">
-        <div className="w-[55%]">
+        <div className="w-full md:w-[55%]">
           <iframe
             title="uniqueTitle"
             className="h-[400px] w-full"
