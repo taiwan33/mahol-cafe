@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mahol-cafe/static/css/main.d35e5117.css",
+    "main.js": "/mahol-cafe/static/js/main.daeb0437.js",
+    "static/js/787.891244ae.chunk.js": "/mahol-cafe/static/js/787.891244ae.chunk.js",
+    "static/media/food1.jpg": "/mahol-cafe/static/media/food1.ad9d67dfb73a9b6f2010.jpg",
+    "static/media/food4.jpg": "/mahol-cafe/static/media/food4.e6c22e2f9b37ee7e2fd9.jpg",
+    "static/media/6.jpg": "/mahol-cafe/static/media/6.4b02ba26a97d1d95821d.jpg",
+    "static/media/food7.jpg": "/mahol-cafe/static/media/food7.27c14e3f738ce97d16d6.jpg",
+    "static/media/group.jpg": "/mahol-cafe/static/media/group.a91f89230cea35721764.jpg",
+    "static/media/bar.jpeg": "/mahol-cafe/static/media/bar.603c73b051a13069e28e.jpeg",
+    "static/media/back.webp": "/mahol-cafe/static/media/back.860ef7f748e2f80f441d.webp",
+    "static/media/gentleman.jpg": "/mahol-cafe/static/media/gentleman.5900eecae15a450e1578.jpg",
+    "static/media/signature.png": "/mahol-cafe/static/media/signature.045887798a2b653c7b4f.png",
+    "static/media/reservation2.jpg": "/mahol-cafe/static/media/reservation2.5f678052b2a2a9f1474a.jpg",
+    "static/media/Maholcafe.png": "/mahol-cafe/static/media/Maholcafe.040f63541ead0f81819c.png",
+    "static/media/1.jpeg": "/mahol-cafe/static/media/1.382a8d86d28dc4e1369f.jpeg",
+    "static/media/3.jpeg": "/mahol-cafe/static/media/3.49b46fca86efe3035a51.jpeg",
+    "static/media/2.jpeg": "/mahol-cafe/static/media/2.37bc6a28f381129fe9fb.jpeg",
+    "static/media/food2.jpeg": "/mahol-cafe/static/media/food2.8963768a4178452781a5.jpeg",
+    "static/media/6.jpeg": "/mahol-cafe/static/media/6.317a503da6bae02886e5.jpeg",
+    "index.html": "/mahol-cafe/index.html",
+    "main.d35e5117.css.map": "/mahol-cafe/static/css/main.d35e5117.css.map",
+    "main.daeb0437.js.map": "/mahol-cafe/static/js/main.daeb0437.js.map",
+    "787.891244ae.chunk.js.map": "/mahol-cafe/static/js/787.891244ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d35e5117.css",
+    "static/js/main.daeb0437.js"
+  ]
+}
